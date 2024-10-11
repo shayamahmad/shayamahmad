@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shayam Ahmad</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Himalayas</h3>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
-</p>
+</p> -->
 
 <p align="left"> <a href="https://twitter.com/shayam__ahmad" target="blank"><img
             src="https://img.shields.io/twitter/follow/shayam__ahmad?logo=twitter&style=for-the-badge"
@@ -61,12 +61,12 @@
 
 
 
-<p align="center"><img align="center"
+<p align="left"><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=shayamahmad&show_icons=true&locale=en&layout=compact"
         alt="shayamahmad" /></p>
 
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/shayamahmad">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayamahmad&" alt="shayamahmad-streak" />
     </a>
