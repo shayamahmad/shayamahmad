@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shayam Ahmad</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Himalayas</h3>
 
-<!-- <p align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
-</p> -->
+<div align="center">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5"
+        width="500" alt="Cool GIF" />
+</div>
 
+<h3 align="center">A passionate Full Stack Web Developer from the peak of Himalayas</h3>
 <p align="left"> <a href="https://twitter.com/shayam__ahmad" target="blank"><img
             src="https://img.shields.io/twitter/follow/shayam__ahmad?logo=twitter&style=for-the-badge"
-            alt="shayam__ahmad" /></a> </p>
+            alt="Twitter Follow" /></a> </p>
+
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
@@ -26,6 +28,10 @@
     <a href="https://instagram.com/ahmad_shayam" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="ahmad_shayam" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/shayamahmad74" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+            alt="shayamahmad74" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -61,13 +67,8 @@
 
 
 
-<p align="left"><img align="center"
+<p> <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=shayamahmad&show_icons=true&locale=en&layout=compact"
-        alt="shayamahmad" /></p>
-
-
-<p align="left">
-    <a href="https://github.com/shayamahmad">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayamahmad&" alt="shayamahmad-streak" />
-    </a>
-</p>
+        alt="Top Languages" /> </p>
+<!-- <p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shayamahmad"
+        alt="Shayam Ahmad's Streak Stats" /> </p> -->
