@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shayam Ahmad</h1>
+<h1 align="center">Hi 👋 I'm Shayam Ahmad</h1>
 
 <div align="center">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5"
